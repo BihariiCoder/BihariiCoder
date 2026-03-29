@@ -38,9 +38,7 @@
         <li>🌍 Contribute to digital health innovation</li>
     </ul>
     <h2>📫 Contact</h2>
-    <p>📧 Email: <a href="#">your-email@example.com</a></p>
-    <p>🔗 LinkedIn: <a href="#">your-linkedin-profile</a></p>
-    <p>💻 GitHub: <a href="#">your-github-profile</a></p>
+    <p>📧 Email: <a href="#">ashish.25bhi10057@vitbhopal.ac.in</a></p>
     <div class="footer">
         ✨ Made with passion by Ashish Ranjan | © 2026
     </div>
